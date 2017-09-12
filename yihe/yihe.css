@@ -199,7 +199,7 @@ li{
     width: 1181px;
     height: 44px;
     margin: 0 auto;
-    overflow: hidden;
+    /*overflow: hidden;*/
     position: relative;
 }
 .nav .ul1>div{
